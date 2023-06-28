@@ -20,3 +20,5 @@ https://www.kaggle.com/terminus7/pokemon-challenge
 
 Instagram:
 @pallinrenan
+
+28/06 - Update
